@@ -1,0 +1,11 @@
+C:\Users\hugeMordor\Documents\CS_LAB\Oop2\obj\Debug\Oop2.csproj.AssemblyReference.cache
+C:\Users\hugeMordor\Documents\CS_LAB\Oop2\obj\Debug\Oop2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugeMordor\Documents\CS_LAB\Oop2\obj\Debug\Oop2.Properties.Resources.resources
+C:\Users\hugeMordor\Documents\CS_LAB\Oop2\obj\Debug\Oop2.csproj.GenerateResource.cache
+C:\Users\hugeMordor\Documents\CS_LAB\Oop2\obj\Debug\Oop2.csproj.CoreCompileInputs.cache
+C:\Users\hugeMordor\Documents\CS_LAB\Oop2\bin\Debug\Oop2.exe.config
+C:\Users\hugeMordor\Documents\CS_LAB\Oop2\bin\Debug\Oop2.exe
+C:\Users\hugeMordor\Documents\CS_LAB\Oop2\bin\Debug\Oop2.pdb
+C:\Users\hugeMordor\Documents\CS_LAB\Oop2\obj\Debug\Oop2.exe
+C:\Users\hugeMordor\Documents\CS_LAB\Oop2\obj\Debug\Oop2.pdb
+C:\Users\hugeMordor\Documents\CS_LAB\Oop2\obj\Debug\Oop2.Form1.resources
